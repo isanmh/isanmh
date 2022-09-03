@@ -33,8 +33,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     - ⚡ Fun fact: ... </br>
 </details>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=metaliccode&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaliccode&layout=compact" height=180 />
+    <img src="https://github-readme-stats.vercel.app/api?username=isanmh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanmh&layout=compact" height=180 />
 </p>
 
 ### Let's connect!
