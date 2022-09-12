@@ -38,8 +38,8 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=isanmh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanmh&layout=compact" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=metaliccode&layout=compact" height="180px"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanmh&layout=compact" />
 </p>
 
 ### Let's connect!
