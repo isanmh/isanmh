@@ -77,4 +77,16 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 <!--     <a href="https://www.paypal.me/gewdfe" target="blank"><img src="https://ionicabizau.github.io/badges/paypal.svg" /></a> -->
 </p>
 
+###
 
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="left">
+  <img src="https://streak-stats.demolab.com?user=isanmh&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  
+</div>
+<div align="left"> 
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=isanmh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
