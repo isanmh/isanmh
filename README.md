@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Isan 😄
-Currently I am open to any opportunity especially in IT as a Web Developer and UI Designer.
-<br> Follow My First Github Account for more source <a href="https://github.com/metaliccode" target="_blank"><img src="https://img.shields.io/badge/metaliccode-30302f?style=flat&logo=github" /></a>
+<!--Currently I am open to any opportunity especially in IT as a Web Developer and UI Designer.
+<br> Follow My First Github Account for more source <a href="https://github.com/metaliccode" target="_blank"><img src="https://img.shields.io/badge/metaliccode-30302f?style=flat&logo=github" /></a>-->
 
 ### Tools:
 <p>
@@ -23,7 +23,7 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
 
 ### What i am learning/working on these days 
 </summary>
-    - 🔭 I’m currently at <a href="https://www.inixindo.id/">Inixindo<a> Bandung as IT Instructor for Programming, Databases & Offices</br>
+   <!-- - 🔭 I’m currently at <a href="https://www.inixindo.id/">Inixindo<a> Bandung as IT Instructor for Programming, Databases & Offices</br>
     - 🌱 I’m currently learning Github Actions, Docker & Kubernetes</br>
     - 👯 I’m looking to collaborate on any open source projects related to PHP, Laravel and JavaScript (ReactJs preferrable)</br>
     - 🤔 I’m looking for help with building a new course at <a href="https://www.inixindo.id/">Inixindo<a> Bandung</br>
@@ -34,13 +34,13 @@ Currently I am open to any opportunity especially in IT as a Web Developer and U
     <br>
      <a href="https://metaliccode.github.io/" target="blank"><img src="https://img.shields.io/badge/Website-https://metaliccode.github.io/-green?" /></a>
     <a href="https://www.instagram.com/Isanz_mh/" target="_blank"><img src="https://img.shields.io/badge/isanz_mh-30302f?style=flat&logo=instagram" /></a>
-    <a href="https://linkedin.com/in/isanz-mh" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a>
+    <a href="https://linkedin.com/in/isanz-mh" target="_blank"><img src="https://img.shields.io/badge/Ihsan_Miftahul_Huda-30302f?style=flat&logo=linkedin" /></a> -->
     
 <!-- <p>
     <img src="https://github-readme-stats.vercel.app/api?username=isanmh&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanmh&layout=compact" />
 </p> -->
-<!-- <a href="https://github.com/isanmh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isanmh&show_icons=true&theme=buefy&hide_border=true&title_color=000" alt="isanmh github stats" /></a> -->
+<!-- <a href="https://github.com/isanmh"><img align="center" src="https://github-readme-stats.vercel.app/api?username=isanmh&show_icons=true&theme=buefy&hide_border=true&title_color=000" alt="isanmh github stats" /></a> --> 
 <a href="https://github.com/isanmh"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=isanmh&layout=compact&theme=buefy&hide_border=true&title_color=000" /></a> 
 
 
