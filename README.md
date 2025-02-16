@@ -8,17 +8,18 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/UI-Figma-blue?&logo=figma" />
     <img src="https://img.shields.io/badge/Test-Post%20Man-orange?&logo=postman" />
+    <img src="https://img.shields.io/badge/Trello-Scrum-orange?&logo=trello" />
 <!--     <img src="https://gpvc.arturio.dev/isanmh" /> -->
 </p>
 
 ### Frameworks
 <p>
    <img src="https://img.shields.io/badge/Framework-Laravel-red?&logo=laravel" />
-   <img src="https://img.shields.io/badge/Framework-NodeJs-green?&logo=node.js" />
-   <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter" />
-   <img src="https://img.shields.io/badge/Framework-VueJs-green?&logo=vue.js" />   
-   <img src="https://img.shields.io/badge/Framework-CI-red?&logo=codeigniter" />
+   <img src="https://img.shields.io/badge/Framework-NodeJs-green?&logo=express" />
    <img src="https://img.shields.io/badge/Library-ReactJS/Native-blue?&logo=react" />
+   <img src="https://img.shields.io/badge/Framework-Flutter-blue?&logo=flutter" />
+   <img src="https://img.shields.io/badge/Framework-CI-red?&logo=codeigniter" />
+   <img src="https://img.shields.io/badge/Framework-VueJs-green?&logo=vue.js" />   
 <p>
 
 ### What i am learning/working on these days 
