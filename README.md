@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Text%20Editor-Visual%20Studio%20Code-blue?&logo=visual%20studio%20code&logoColor=blue" />
     <img src="https://img.shields.io/badge/UI-Figma-blue?&logo=figma" />
     <img src="https://img.shields.io/badge/Test-Post%20Man-orange?&logo=postman" />
-    <img src="https://gpvc.arturio.dev/isanmh" />
+<!--     <img src="https://gpvc.arturio.dev/isanmh" /> -->
 </p>
 
 ### Frameworks
